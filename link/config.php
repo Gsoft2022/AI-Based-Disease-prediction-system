@@ -1,6 +1,6 @@
 <?php 
 // DB credentials.
-define('DB_HOST','localhost');
+define('DB_HOST','https://github.com');
 define('DB_USER','root'); 
 define('DB_PASS','');
 define('DB_NAME','disease');
